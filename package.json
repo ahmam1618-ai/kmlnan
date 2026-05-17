@@ -1,0 +1,14 @@
+{
+  "name": "kammelna-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
